@@ -1,0 +1,6 @@
+VID: abcd Model: mustagn Year: 2020 Fuel: Electric Doors: 4
+VID: efgh Model: mustagn Year: 2020 Fuel: gas Doors: 4
+VID: ijkl Model: mustagn Year: 2023 Load: 100000kg Axles: 8
+VID: mnop Model: mustagn Year: 2023 Load: 100000kg Axles: 8
+VID: qrst Model: mustagn Year: 2020 EngineCC: 990cc Type: sport
+VID: uvwx Model: mustagn Year: 2020 EngineCC: 990cc Type: sport
